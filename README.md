@@ -17,4 +17,4 @@ refund(boolean) - is a transaction a refund (true/false)
 
 1. Calculate as a cohort how much we earned each day. That is, if the user took the trial on 01/01 and we received money from him after 7 days (08/01), then this revenue should be credited to 01/01. Calculate Gross Revenue.
 2. Calculate on which day the user makes a refund on average.
-3. Calculate the conversion in the 2nd, 3rd, 4th, 5th and 6th payment according to the monthly rates. Take the monthly cohort. That is, it is important for us to know how people who first bought a subscription, for example, in October, then continued to pay for the following months
+3. Calculate the conversion in the 2nd, 3rd, 4th, 5th and 6th payment according to the monthly rates. Take the monthly cohort. That is, it is important for us to know how people who first bought a subscription, for example, in October, then continued to pay for the following months.
