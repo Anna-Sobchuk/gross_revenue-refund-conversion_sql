@@ -1,11 +1,11 @@
 # gross_revenue-refund-conversion_sql
 In BigQuery exists such database:
 
-event_date(date) - date of event
-subscription_name(string) - name of subscription (monthly/annual)
-subscriber_id(string) - unique user id
-customer_price(float) - amont paid for subscription
-refund(boolean) - is a transaction a refund (true/false)
+- event_date(date) - date of event
+- subscription_name(string) - name of subscription (monthly/annual)
+- subscriber_id(string) - unique user id
+- customer_price(float) - amont paid for subscription
+- refund(boolean) - is a transaction a refund (true/false)
 
 ## In the application, the monetization model is subscription.
 
